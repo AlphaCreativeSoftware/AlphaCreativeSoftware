@@ -3,26 +3,26 @@
 ![Banner](https://i.imgur.com/ix8zqYX.png)
 
 ### 🌟 Contribuciones Destacadas
-- 🎮 **Motor Gráfico 2D en Java**: Motor gráfico de código abierto diseñado para desarrolladores que buscan herramientas avanzadas y optimizadas para crear juegos y aplicaciones visuales de alta calidad utilizando unicamente java.
-- - **Pruebalo tu mismo**: [Alpha Engine 2D](https://github.com/AlphaCreativeSoftware/AlphaEngine2D)
+- 🎮 **Motor Gráfico 2D en Java**: Motor gráfico de código abierto diseñado para desarrolladores que buscan herramientas avanzadas y optimizadas para crear juegos y aplicaciones visuales de alta calidad utilizando unicamente java. Incluye un juego de ejemplo.
+  - **Pruebalo tu mismo**: [Alpha Engine 2D (0.0.1b)](https://github.com/AlphaCreativeSoftware/AlphaEngine2D)
 
 ### 👨‍💻 Sobre Mí
-¡Hola! Soy un desarrollador apasionado por la tecnología y la innovación. Mi objetivo es crear soluciones creativas que combinen funcionalidad y diseño de manera efectiva. Aquí encontrarás algunos de mis proyectos más destacados y en los que estoy trabajando actualmente.
+Soy un desarrollador apasionado por la tecnología y la innovación. Mi objetivo es crear soluciones creativas que combinen funcionalidad y diseño de manera efectiva. Aquí encontrarás algunos de mis proyectos más destacados y en los que estoy trabajando actualmente.
 
-- 🔭 **Proyectos actuales**: Desarrollo de aplicaciones innovadoras, motores gráficos y herramientas personalizadas.
+- 🔭 **Proyectos actuales**: Desarrollo de aplicaciones innovadoras, y herramientas personalizadas.
 - 🌱 **Aprendizaje constante**: Siempre explorando nuevas tecnologías, frameworks y buenas prácticas.
-- 👯 **Colaboración**: Abierto a trabajar en proyectos desafiantes y con equipos creativos.
+- 👯 **Colaboración**: Abierto a trabajar en proyectos desafiantes y con equipos creativos y competitivos.
 - 💬 **¿Preguntas?**: Si tienes alguna consulta sobre desarrollo de software, estaré encantado de ayudarte.
-- 📫 **Contacto**: [Envíame un correo](mailto:tu.email@ejemplo.com) para colaborar o charlar sobre tecnología.
+- 📫 **Contacto**: [Envíame un correo](mailto:alphacreativesoftware@gmail.com) para colaborar o charlar sobre tecnología.
 - ⚡ **Dato curioso**: Me apasiona optimizar procesos y encontrar soluciones innovadoras para problemas complejos.
 
 ---
 
 ### 🚀 Tecnologías y Habilidades
-- **Lenguajes de Programación**: Java, JavaScript, Python, C++.
+- **Lenguajes de Programación**: Java, JavaScript, Python, SQL, C, C++, C#, Bash Scripting, Powershell.
 - **Frameworks y Librerías**: React, Spring Boot, Node.js.
-- **Herramientas de Desarrollo**: Git, Docker, CI/CD.
-- **Áreas de Interés**: SEO técnico, desarrollo web, diseño de motores gráficos y arquitectura de software.
+- **Herramientas de Desarrollo**: Git, JSON.
+- **Áreas de Interés**: SEO técnico, desarrollo web, arquitectura de software, desarrollo y diseño de videojuegos, programación orientada a objetos y edición de video.
 
 ---
 
@@ -34,8 +34,6 @@
 ---
 
 ### 📈 Datos Interesantes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaCreativeSoftware&show_icons=true&theme=radical)
-
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCreativeSoftware&layout=compact&theme=radical)
 
 ---
@@ -48,4 +46,4 @@ Este repositorio es una representación de mi pasión por el desarrollo de softw
 
 ---
 
-✨ **Gracias por visitar mi perfil. Estoy ansioso por conectar contigo y crear algo increíble juntos. ¡Nos vemos en los commits!**
+✨ **Gracias por visitar mi perfil ¡Nos vemos en los commits!**
