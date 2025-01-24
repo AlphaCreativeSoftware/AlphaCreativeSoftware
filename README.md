@@ -27,14 +27,14 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Mi objetivo
 ---
 
 ### 🌐 Encuéntrame en:
-- **LinkedIn**: [Mi perfil profesional](https://www.linkedin.com/in/tu-perfil)
-- **Portfolio**: [Visita mi página web](https://tusitio.com)
-- **Twitter**: [@TuUsuario](https://twitter.com/TuUsuario)
+- **Amazon KDP**: [Mikael Rodriguez (Autor)](https://www.amazon.es/s?i=stripbooks&rh=p_27%3AMikael%2BRodr%25C3%25ADguez%2BL%25C3%25B3pez&ref=dp_byline_sr_book_1)
+- **YouTube**: [Alpha Creative (YouTube)](https://www.youtube.com/@alpha.creative)
+- **Play Store**: [Alpha Creative (Play Store Apps)](https://play.google.com/store/apps/dev?id=4852540663954087438)
 
 ---
 
 ### 📈 Datos Interesantes
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCreativeSoftware&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCreativeSoftware&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
